@@ -1,16 +1,12 @@
-### Hi there 👋
+### Greetings
 
-<!--
-**jhx0/jhx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is jhx and i code for fun! 👋🏻
+Maybe something will be of use to you. I don't code for money currently (Not a professional software engineer) - although i did some programming before in a former life for money (Mostly scripting).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux/BSD user since a long time 😈🐧 
+    (...and sometimes Windows)
+- Languages i'm interested in: 
+    { C, C++, C#, Java, Python, Go, Bash, PowerShell }
+- Living on planet earth 🌍
+- It's all about having fun! 😃
+- Pronouns: he/him

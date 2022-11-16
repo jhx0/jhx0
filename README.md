@@ -7,6 +7,6 @@ Maybe something will be of use to you. I don't code for money currently (Not a p
 - Linux/BSD/Windows user since a long time 😈🐧🪟
 - Living on planet earth (still) 🌍
 - Generally interested in programming
-    (...a couple of languages)
+    - C, Go, Python, Shell, Web
 - It's all about having fun! 😃
 - Pronouns: he/him

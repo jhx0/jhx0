@@ -5,6 +5,8 @@ My name is jhx and i code for fun! 😀
 Maybe something will be of use to you. I don't code for money currently (Not a professional software engineer) ...although i did some programming before for money in a former life (Mostly scripting).
 
 - Linux/BSD/Windows user since a long time 😈🐧🪟
+    - Debian, Slackware, FreeBSD, OpenBSD
+    - Not using Windows much anymore
 - Living on planet earth (still) 🌍
 - Generally interested in programming ⌨️
     - C, Go, Python, Shell, Web 

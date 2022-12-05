@@ -6,7 +6,7 @@ Maybe something will be of use to you. I don't code for money currently (Not a p
 
 - Linux/BSD/Windows user since a long time 😈🐧🪟
     - Debian, Slackware, FreeBSD, OpenBSD
-    - Not using Windows much anymore
+    - ...and Windows
 - Living on planet earth (still) 🌍
 - Generally interested in programming ⌨️
     - C, Go, Python, Shell, Web 

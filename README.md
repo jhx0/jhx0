@@ -14,7 +14,6 @@ Maybe something will be of use to you. I don't code for money currently (Not a p
 
 ## GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jhx0&hide=contribs,prs&show_icons=true&theme=dracula)
-
-## Language stats
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhx0&layout=compact&theme=dracula)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jhx0&hide=contribs,prs&show_icons=true&theme=dracula"/>
+</div>

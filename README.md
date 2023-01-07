@@ -7,6 +7,7 @@ Maybe something will be of use to you. I don't code for money currently (Not a p
 ### A short summary:
 
 - Linux/BSD/Windows user since a long time 😈🐧🪟
+    - Rarely using Windows nowadays
 - Living on planet earth (still) 🌍
 - Generally interested in programming ⌨️
     - A couple of languages 👾

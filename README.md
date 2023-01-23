@@ -1,14 +1,27 @@
 ## Greetings 😎 👋
 
-My name is jhx and I code for fun! 😀
+```
+#include <stdio.h>
+#include <stdlib.h>
 
-Maybe something will be of use to you. I don't code for money currently (Not a professional software engineer) ...although I did some programming before for money in a former life (Mostly scripting).   
+#define NAME "jhx"
+#define HOME "Earth"
 
-### A short summary:
+int main(void) {
+    (void)fprintf(stdout, 
+                "Hello, my name is %s and I'm from %s!\n",
+                NAME, HOME);
+
+    return EXIT_SUCCESS;
+}
+```
+and...
+```
+$ echo "Check out my projects and have fun!"
+```
+### About me:
 
 - Linux/BSD/Windows user since a long time 😈🐧🪟
-    - Rarely using Windows nowadays
-- Living on planet earth (still) 🌍
 - Generally interested in programming ⌨️
     - A couple of languages 👾
 - Ansible user ⭐️

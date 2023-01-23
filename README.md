@@ -23,7 +23,6 @@ $ echo "Check out my projects and have fun!"
 
 - Linux/BSD/Windows user since a long time 😈🐧🪟
 - Generally interested in programming ⌨️
-    - A couple of languages 👾
 - Ansible user ⭐️
 - It's all about having fun! 😃
 - Pronouns: he/him 👽   

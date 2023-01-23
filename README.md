@@ -1,6 +1,6 @@
 ## 👋
 
-```
+```C
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -16,7 +16,7 @@ int main(void) {
 }
 ```
 and...
-```
+```Shell
 $ echo "Check out my projects and have fun!"
 ```
 ### About me:

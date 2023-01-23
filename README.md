@@ -1,4 +1,4 @@
-## Greetings 😎 👋
+## 👋
 
 ```
 #include <stdio.h>

@@ -19,10 +19,8 @@ and...
 ```Shell
 $ echo "Check out my projects and have fun!"
 ```
-### About me:
 
-- Linux/BSD/Windows user since a long time 😈🐧🪟
-- Generally interested in programming ⌨️
-- Ansible user ⭐️
-- It's all about having fun! 😃
-- Pronouns: he/him 👽   
+##   
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=jhx0&hide=contribs,prs&show_icons=true&theme=dracula"/>
+</div>

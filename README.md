@@ -19,8 +19,3 @@ and...
 ```Shell
 $ echo "Check out my projects and have fun!"
 ```
-
-##   
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=jhx0&hide=contribs,prs&show_icons=true&theme=dracula"/>
-</div>

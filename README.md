@@ -19,5 +19,7 @@ and...
 ```Shell
 $ echo "Check out my projects and have fun!"
 ```
-##
-![Stats](https://github-readme-stats.vercel.app/api?username=jhx0&show_icons=true&theme=dracula)
+...and last but not least:
+```Python
+$ python -c 'print("Stay Open!")'
+```

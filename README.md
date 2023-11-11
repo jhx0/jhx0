@@ -19,7 +19,7 @@ and...
 ```Shell
 $ echo "Check out my projects and have fun!"
 ```
-...and last but not least:
+...last but not least:
 ```Python
 $ python -c 'print("Stay Open!")'
 ```
